@@ -6,5 +6,5 @@ node_name                'root'
 client_key               "#{ENV['HOME']}/.chef/root.pem"
 validation_client_name   'chef-validator'
 validation_key           "#{ENV['HOME']}/.chef/chef-validator.pem"
-chef_server_url          'https://185.14.187.65'
+chef_server_url          'https://chef.ur-nl.com'
 syntax_check_cache_path  "#{ENV['HOME']}/.chef/syntax_check_cache"
